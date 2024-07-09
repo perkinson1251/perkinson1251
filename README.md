@@ -52,7 +52,7 @@
   |---------------|---------------------|-------------------------------------------|
   | [Movie Search](https://github.com/perkinson1251/react-ts-movie-search)|React, Typescript, Axios|Simple application for searching information about movies, shows etc.|
   | [Code Editor](https://github.com/perkinson1251/react-code-editor)|React, Typescript, Axios|Simple in-browser code editor|
-  | [SAMP Toolkit](https://github.com/perkinson1251/sa-es-ftp-bot)|Node.js, Typescript, MongoDB, Docker, Discord.js|Discord bot for game SA:MP|
+  | [Law Enforcement Toolkit](https://github.com/perkinson1251/law-enforcement-toolkit/)|Node.js, Typescript, MongoDB, Docker, Discord.js|Discord bot for game SA:MP|
   | [Nure Schedule](https://github.com/mindenit/nure-schedule-vue)|Vue, Typescript|Schedule application for NURE university|
 
 </details>
