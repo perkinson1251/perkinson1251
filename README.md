@@ -77,19 +77,6 @@ const me: Developer = {
 <br/>
 <br/>
 
-### Featured Projects
-
-<a href="https://mindenit.github.io/ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mindenit&repo=ui&theme=aura&bg_color=00000000&hide_border=true" />
-</a>
-
-<a href="https://sh.mindenit.org">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mindenit&repo=nure-schedule-vue&theme=aura&bg_color=00000000&hide_border=true" />
-</a>
-
-<br/>
-<br/>
-
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=perkinson1251&color=8B5CF6&style=for-the-badge&label=Profile+Views)](https://github.com/perkinson1251)
 
 </div>
