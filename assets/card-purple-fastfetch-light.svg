@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="roman@endeavour: fullstack developer at ITSUA. EndeavourOS, zsh. TypeScript, Vue, Nuxt, React, Next.js, Node.js, NestJS, Fastify, PostgreSQL, Docker, Cloudflare.">
-  <rect width="760" height="360" fill="#f5f3ff"/>
-  <rect x="6" y="6" width="748" height="348" fill="none" stroke="#7c3aed" stroke-width="2"/>
-  <rect x="12" y="12" width="736" height="336" fill="none" stroke="#7c3aed" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="410" viewBox="0 0 760 410" role="img" aria-label="roman@endeavour: fullstack developer at ITSUA. EndeavourOS, zsh. TypeScript, Vue, Nuxt, React, Next.js, Node.js, NestJS, Fastify, PostgreSQL, Docker, Cloudflare. Contact: roman.trashutin@gmail.com, linkedin.com/in/roman-trashutin.">
+  <rect width="760" height="410" fill="#f5f3ff"/>
+  <rect x="6" y="6" width="748" height="398" fill="none" stroke="#7c3aed" stroke-width="2"/>
+  <rect x="12" y="12" width="736" height="386" fill="none" stroke="#7c3aed" stroke-width="1"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;DejaVu Sans Mono&apos;,monospace" font-size="14">
   <text x="44" y="46" fill="#8b7fb0">$</text><text x="60" y="46" fill="#2e1065">fastfetch</text>
   <text x="240" y="76" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="18">roman@endeavour</text>
@@ -12,15 +12,17 @@
   <text x="44" y="168" xml:space="preserve" fill="#8b7fb0">  /   ,,   \  </text>
   <text x="44" y="186" xml:space="preserve" fill="#8b7fb0"> /   |  |   \ </text>
   <text x="44" y="204" xml:space="preserve" fill="#8b7fb0">/_-''    ''-_\</text>
-  <text x="240" y="102" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">os</text><text x="320" y="102" fill="#2e1065">EndeavourOS (Arch-based)</text>
-  <text x="240" y="124" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">host</text><text x="320" y="124" fill="#2e1065">ThinkPad L14 Gen 1</text>
-  <text x="240" y="146" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">kernel</text><text x="320" y="146" fill="#2e1065">Linux 7.2.11-arch1-1</text>
-  <text x="240" y="168" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">shell</text><text x="320" y="168" fill="#2e1065">zsh</text>
-  <text x="240" y="190" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">cpu</text><text x="320" y="190" fill="#2e1065">Ryzen 7 PRO 4750U</text>
-  <text x="240" y="212" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">role</text><text x="320" y="212" fill="#2e1065">Fullstack Developer @ ITSUA</text>
-  <text x="240" y="234" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">stack</text><text x="320" y="234" fill="#2e1065">TypeScript · Vue · Nuxt · React · Next.js</text>
-  <text x="240" y="256" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">backend</text><text x="320" y="256" fill="#2e1065">Node.js · NestJS · Fastify · PostgreSQL</text>
-  <text x="240" y="278" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">infra</text><text x="320" y="278" fill="#2e1065">Docker · Cloudflare · self-hosting</text>
+  <text x="240" y="102" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">os</text><text x="330" y="102" fill="#2e1065">EndeavourOS (Arch-based)</text>
+  <text x="240" y="124" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">host</text><text x="330" y="124" fill="#2e1065">ThinkPad L14 Gen 1</text>
+  <text x="240" y="146" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">kernel</text><text x="330" y="146" fill="#2e1065">Linux 7.2.11-arch1-1</text>
+  <text x="240" y="168" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">shell</text><text x="330" y="168" fill="#2e1065">zsh</text>
+  <text x="240" y="190" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">cpu</text><text x="330" y="190" fill="#2e1065">Ryzen 7 PRO 4750U</text>
+  <text x="240" y="212" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">role</text><text x="330" y="212" fill="#2e1065">Fullstack Developer @ ITSUA</text>
+  <text x="240" y="234" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">stack</text><text x="330" y="234" fill="#2e1065">TypeScript · Vue · Nuxt · React · Next.js</text>
+  <text x="240" y="256" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">backend</text><text x="330" y="256" fill="#2e1065">Node.js · NestJS · Fastify · PostgreSQL</text>
+  <text x="240" y="278" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">infra</text><text x="330" y="278" fill="#2e1065">Docker · Cloudflare · self-hosting</text>
+  <text x="240" y="300" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">contact</text><text x="330" y="300" fill="#2e1065">roman.trashutin@gmail.com</text>
+  <text x="240" y="322" fill="#6d28d9" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">linkedin</text><text x="330" y="322" fill="#2e1065">linkedin.com/in/roman-trashutin</text>
   </g>
-  <rect x="240" y="312" width="26" height="16" fill="#2e1065"/><rect x="266" y="312" width="26" height="16" fill="#4c1d95"/><rect x="292" y="312" width="26" height="16" fill="#5b21b6"/><rect x="318" y="312" width="26" height="16" fill="#6d28d9"/><rect x="344" y="312" width="26" height="16" fill="#7c3aed"/><rect x="370" y="312" width="26" height="16" fill="#8b5cf6"/><rect x="396" y="312" width="26" height="16" fill="#a78bfa"/><rect x="422" y="312" width="26" height="16" fill="#c4b5fd"/>
+  <rect x="240" y="362" width="26" height="16" fill="#2e1065"/><rect x="266" y="362" width="26" height="16" fill="#4c1d95"/><rect x="292" y="362" width="26" height="16" fill="#5b21b6"/><rect x="318" y="362" width="26" height="16" fill="#6d28d9"/><rect x="344" y="362" width="26" height="16" fill="#7c3aed"/><rect x="370" y="362" width="26" height="16" fill="#8b5cf6"/><rect x="396" y="362" width="26" height="16" fill="#a78bfa"/><rect x="422" y="362" width="26" height="16" fill="#c4b5fd"/>
 </svg>
