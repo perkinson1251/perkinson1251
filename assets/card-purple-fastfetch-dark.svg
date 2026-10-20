@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="roman@endeavour: fullstack developer at ITSUA. EndeavourOS, zsh. TypeScript, Vue, Nuxt, React, Next.js, Node.js, NestJS, Fastify, PostgreSQL, Docker, Cloudflare.">
+  <rect width="760" height="360" fill="#1e1b2e"/>
+  <rect x="6" y="6" width="748" height="348" fill="none" stroke="#6d5bb0" stroke-width="2"/>
+  <rect x="12" y="12" width="736" height="336" fill="none" stroke="#6d5bb0" stroke-width="1"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;DejaVu Sans Mono&apos;,monospace" font-size="14">
+  <text x="44" y="46" fill="#6b6685">$</text><text x="60" y="46" fill="#e2dff0">fastfetch</text>
+  <text x="240" y="76" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="18">roman@endeavour</text>
+  <text x="44" y="96" xml:space="preserve" fill="#8b5cf6">      /\      </text>
+  <text x="44" y="114" xml:space="preserve" fill="#8b5cf6">     /  \     </text>
+  <text x="44" y="132" xml:space="preserve" fill="#8b5cf6">    /    \    </text>
+  <text x="44" y="150" xml:space="preserve" fill="#8b5cf6">   /      \   </text>
+  <text x="44" y="168" xml:space="preserve" fill="#8b5cf6">  /   ,,   \  </text>
+  <text x="44" y="186" xml:space="preserve" fill="#8b5cf6"> /   |  |   \ </text>
+  <text x="44" y="204" xml:space="preserve" fill="#8b5cf6">/_-''    ''-_\</text>
+  <text x="240" y="102" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">os</text><text x="320" y="102" fill="#e2dff0">EndeavourOS (Arch-based)</text>
+  <text x="240" y="124" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">host</text><text x="320" y="124" fill="#e2dff0">ThinkPad L14 Gen 1</text>
+  <text x="240" y="146" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">kernel</text><text x="320" y="146" fill="#e2dff0">Linux 7.2.11-arch1-1</text>
+  <text x="240" y="168" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">shell</text><text x="320" y="168" fill="#e2dff0">zsh</text>
+  <text x="240" y="190" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">cpu</text><text x="320" y="190" fill="#e2dff0">Ryzen 7 PRO 4750U</text>
+  <text x="240" y="212" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">role</text><text x="320" y="212" fill="#e2dff0">Fullstack Developer @ ITSUA</text>
+  <text x="240" y="234" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">stack</text><text x="320" y="234" fill="#e2dff0">TypeScript · Vue · Nuxt · React · Next.js</text>
+  <text x="240" y="256" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">backend</text><text x="320" y="256" fill="#e2dff0">Node.js · NestJS · Fastify · PostgreSQL</text>
+  <text x="240" y="278" fill="#c4a7ff" font-family="Georgia,&apos;Times New Roman&apos;,serif" font-weight="bold" font-size="16">infra</text><text x="320" y="278" fill="#e2dff0">Docker · Cloudflare · self-hosting</text>
+  </g>
+  <rect x="240" y="312" width="26" height="16" fill="#3b3560"/><rect x="266" y="312" width="26" height="16" fill="#5b4b9a"/><rect x="292" y="312" width="26" height="16" fill="#7c5fd6"/><rect x="318" y="312" width="26" height="16" fill="#8b5cf6"/><rect x="344" y="312" width="26" height="16" fill="#a78bfa"/><rect x="370" y="312" width="26" height="16" fill="#c4a7ff"/><rect x="396" y="312" width="26" height="16" fill="#ddd0ff"/><rect x="422" y="312" width="26" height="16" fill="#f1ecff"/>
+</svg>
